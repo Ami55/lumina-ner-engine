@@ -1,0 +1,5 @@
+{
+  "name": "Lumina NER Engine",
+  "description": "Advanced Named Entity Recognition engine powered by Gemini, visualizing entities with Google Natural Language API aesthetics.",
+  "requestFramePermissions": []
+}
