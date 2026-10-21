@@ -345,7 +345,7 @@ export default function App() {
       {/* Footer */}
       <footer className="bg-white border-t border-gray-200 p-4 text-center">
         <p className="text-[10px] text-gray-400 font-medium uppercase tracking-[0.2em]">
-          © 2026 Lumina NER Engine. Developed by <strong className="text-gray-600">Ami - SEO Girl</strong>. All rights reserved.
+          © 2026 Lumina NER Engine. Developed by <strong className="text-gray-600">SEO Girl - Ami</strong>. All rights reserved.
         </p>
       </footer>
     </div>
